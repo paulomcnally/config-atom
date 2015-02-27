@@ -1,0 +1,50 @@
+"*":
+  "exception-reporting":
+    userId: "81257267-0e09-f04f-fad8-36d8f5c9ef73"
+  welcome:
+    showOnStartup: false
+  "linter-jscs":
+    preset: "google"
+  core:
+    disabledPackages: [
+      "atom-compile-coffee"
+      "slim-language"
+      "minifier"
+      "preview"
+      "less-autocompile"
+      "language-slim"
+      "language-nginx"
+      "language-ejs"
+      "language-csharp"
+      "coffee-lint"
+      "autocomplete-plus-async"
+      "jsdoc"
+      "keybinding-resolver"
+      "language-dust"
+      "linter-jsonlint"
+      "language-jade"
+      "wrap-guide"
+      "welcome"
+      "update-package-dependencies"
+      "timecop"
+      "symbols-view"
+      "styleguide"
+      "status-bar"
+      "spell-check"
+      "snippets"
+      "release-notes"
+      "archive-view"
+    ]
+    themes: [
+      "seti-ui"
+      "seti-syntax"
+    ]
+  "autoclose-html": {}
+  linter: {}
+  editor:
+    invisibles: {}
+    showIndentGuide: true
+  preview:
+    _analyticsUserId: "39e45a36-49f8-40a4-ae66-976d6d891095"
+  "markdown-preview": {}
+  "autocomplete-plus": {}
